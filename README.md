@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Iago Cleuton
 - 👀 I’m interested in Graphic Design
-- 🌱 I’m currently learning Js React
+- 🌱 I’m currently learning React Native
 
 <!---
 IagoCleuton/IagoCleuton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
